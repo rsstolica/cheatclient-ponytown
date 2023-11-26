@@ -57,7 +57,7 @@
     <div id="welcomeWindow" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: #333; padding: 20px; text-align: center; border: 2px solid rgba(0, 0, 0, 0.2); transition: opacity 0.5s, visibility 0.5s; z-index: 10000;">
       <h1 style="color: white; font-weight: bold;">Chair Script</h1>
       <h3 style="color: white; font-weight: bold; font-size: 24px;">Version: <span style="font-size: 28px;">version-0.2-alpha</span></h3>
-      <!-- Ваша гифка с оптимизированными размерами -->
+      <!-- gif1 -->
       <h2 style="color: white;">
         RUS: Добро пожаловать в мой чит-клиент. Он постоянно будет обновляться и дополняться. На данный момент он безопасный, его очень сложно найти. Удачи в использовании!
       </h2>
@@ -65,14 +65,14 @@
       <h2 style="color: white;">
         ENG: Welcome to my cheat client. It will be constantly updated and supplemented. At the moment, it is safe, it is very difficult to find.
       </h2>
-      <img src="https://i.postimg.cc/158N60D6/imgonline-com-ua-Resize-Aue-NYww-PPj-Q7i.png" alt="Your Photo" width="320" height="154" style="display: block; margin: 20px auto 0;">
+      <img src="https://i.postimg.cc/158N60D6/imgonline-com-ua-Resize-Aue-NYww-PPj-Q7i.png" alt="photo" width="320" height="154" style="display: block; margin: 20px auto 0;">
       <hr style="border-top: 1px solid white;">
       <button id="letsGoButton" style="background-color: #5cb85c; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin-top: 20px;">Let's go!</button>
     </div>
     <div id="overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); backdrop-filter: blur(5px); z-index: 9999;"></div>
     <div id="madeByChair" style="position: fixed; top: 30px; right: 10px; font-size: 16px; z-index: 10001;">
       <span id="madeByText" style="cursor: pointer; color: #E52AE2;">Made by Chair</span>
-      <img id="chairImage" src="https://i.postimg.cc/MGLzpczq/imgonline-com-ua-Resize-Iu-Xd-Gid-Qt-SQu.png" alt="Your Photo" width="64" height="64" style="vertical-align: middle; margin-left: 5px; opacity: 0.7;">
+      <img id="chairImage" src="https://i.postimg.cc/MGLzpczq/imgonline-com-ua-Resize-Iu-Xd-Gid-Qt-SQu.png" alt="photo" width="64" height="64" style="vertical-align: middle; margin-left: 5px; opacity: 0.7;">
     </div>
   `;
 
